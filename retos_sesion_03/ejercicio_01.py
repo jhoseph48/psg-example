@@ -1,0 +1,1 @@
+print("Libro: Psicologia del exito, Autor: Mario Luno")
