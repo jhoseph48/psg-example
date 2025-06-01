@@ -65,3 +65,4 @@ print((nota1 + nota2 + nota3) > 50)
 print("ejemplo 3 determinar si 15 es divisible por 3 y 5 pero no por 2")
 num1 = 15
 print(num1 % 3 == 0 and num1 % 5 == 0 and num1 % 2 != 0)
+
